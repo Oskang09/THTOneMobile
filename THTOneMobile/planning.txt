@@ -1,0 +1,8 @@
+﻿进stock
+出stock
+print stock list
+
+One Day Sales
+
+Stock List
+- Brand , Name , Stats , Sales Stock , output Stock, input Stock, Latest Stock

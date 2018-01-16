@@ -1,0 +1,10 @@
+c:\users\oska\documents\visual studio 2017\Projects\THTOneMobile\THTOneMobile\obj\Debug\THTOneMobile.csprojResolveAssemblyReference.cache
+c:\users\oska\documents\visual studio 2017\Projects\THTOneMobile\THTOneMobile\obj\Debug\THTOneMobile.Form1.resources
+c:\users\oska\documents\visual studio 2017\Projects\THTOneMobile\THTOneMobile\obj\Debug\THTOneMobile.Properties.Resources.resources
+c:\users\oska\documents\visual studio 2017\Projects\THTOneMobile\THTOneMobile\obj\Debug\THTOneMobile.csproj.GenerateResource.Cache
+c:\users\oska\documents\visual studio 2017\Projects\THTOneMobile\THTOneMobile\bin\Debug\THTOneMobile.exe.config
+c:\users\oska\documents\visual studio 2017\Projects\THTOneMobile\THTOneMobile\bin\Debug\THTOneMobile.exe
+c:\users\oska\documents\visual studio 2017\Projects\THTOneMobile\THTOneMobile\bin\Debug\THTOneMobile.pdb
+c:\users\oska\documents\visual studio 2017\Projects\THTOneMobile\THTOneMobile\obj\Debug\THTOneMobile.exe
+c:\users\oska\documents\visual studio 2017\Projects\THTOneMobile\THTOneMobile\obj\Debug\THTOneMobile.pdb
+C:\Users\Oska\Documents\Visual Studio 2017\Projects\THTOneMobile\THTOneMobile\obj\Debug\THTOneMobile.SalesEndTotal.resources
